@@ -26,6 +26,7 @@ aceptada. Para ello, edita el campo `homepage` del archivo `package.json`,
 sustituyendo `your_username` y `your_repo_name` por los tuyos propios, y envía 
 los cambios a GitHub.
 
+
 ```json
 "homepage": "https://your_username.github.io/your_repo_name/"
 ```
