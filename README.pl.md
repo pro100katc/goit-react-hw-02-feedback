@@ -26,6 +26,7 @@ zapoznania się z ustawieniami dodatkowych opcji
 ## Deployment
 
 
+
 Produkcyjna wersja projektu będzie automatycznie poddana pracy lintera, budowana
 i deployowana na GitHub Pages, w gałęzi `gh-pages` za każdym razem, gdy
 aktualizuje się gałąź `main`, na przykład po bezpośrednim pushu lub przyjętym
